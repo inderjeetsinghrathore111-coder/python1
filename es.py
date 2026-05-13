@@ -9,3 +9,9 @@ print("hello\aworld")
 print("hello\\world")
 print("hello!world\'s")
 print("hello!world\"s")
+print("Variable")
+a = "INDERJEET"
+b = 21
+c = "JODHPUR"
+d = "BCA"
+print(a,b,c,d)
